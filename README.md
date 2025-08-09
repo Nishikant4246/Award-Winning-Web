@@ -49,7 +49,7 @@ It’s ideal for portfolios, creative showcases, or any project that values desi
 
 ## 🌐 Live Demo
 
-👉 [Live Preview](https://award-winning-website-by-n.vercel.app) 
+👉 [Live Preview](https://award-winning-web-two.vercel.app/) 
 
 
 ## 📦 Installation & Setup
