@@ -3,14 +3,11 @@
 A visually stunning, modern website that blends **creative design**, **smooth animations**, and **responsive layouts**.  
 Built with **React**, **Tailwind CSS**, and a powerful animation + mapping stack, this project is perfect for showcasing award-winning work in style.
 
----
-
 ## 🚀 About the Project
 
 Award Winning Website By N delivers an immersive and interactive web experience by combining minimalistic design principles with advanced animation effects.  
 It’s ideal for portfolios, creative showcases, or any project that values design excellence.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +36,6 @@ It’s ideal for portfolios, creative showcases, or any project that values desi
 ### **Build Tools**
 - **Vite** ⚡ – Next-generation front-end tooling for fast development
 
----
 
 ## 🎯 Features
 
@@ -50,13 +46,11 @@ It’s ideal for portfolios, creative showcases, or any project that values desi
 - **Fast Performance:** Vite + CDN for quick load times
 - **Reusable Components:** Modular React structure for scalability
 
----
 
 ## 🌐 Live Demo
 
-👉 [Live Preview](https://award-winning-website-by-n.vercel.app) *(Replace with actual link once deployed)*
+👉 [Live Preview](https://award-winning-website-by-n.vercel.app) 
 
----
 
 ## 📦 Installation & Setup
 
